@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+.env/
+.venv/
+
+# Environment files
+.env
+.env.*
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Uploaded files
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Test output
+htmlcov/
+.coverage
+.tox/
+
+# Misc
+*.bak
+*.tmp 
